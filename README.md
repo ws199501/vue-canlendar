@@ -31,3 +31,4 @@ var arr = []
       this.box = arr
 ```
 效果截图：
+<img src="./demo.jpeg" alt="截图"/>
